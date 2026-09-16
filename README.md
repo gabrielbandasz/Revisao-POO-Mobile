@@ -1,5 +1,5 @@
 # Revisao-POO-Mobile
-# Exercício — Animal
+
 
 ## Atividade proposta
 
